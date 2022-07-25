@@ -53,10 +53,7 @@ This is the main repository for all of the projects in the course.
 | 44  | [Custom Range Slider](https://github.com/bradtraversy/50projects50days/tree/master/custom-range-slider)                     | [Live Demo](https://50projects50days.com/projects/custom-range-slider/)           |
 | 45  | [Netflix Mobile Navigation](https://github.com/bradtraversy/50projects50days/tree/master/netflix-mobile-navigation)         | [Live Demo](https://50projects50days.com/projects/netflix-mobile-navigation/)     |
 | 46  | [Quiz App](https://github.com/bradtraversy/50projects50days/tree/master/quiz-app)                                           | [Live Demo](https://50projects50days.com/projects/quiz-app/)                      |
-| 47  | [Testimonial Box Switcher](https://github.com/bradtraversy/50projects50days/tree/master/testimonial-box-switcher)           | [Live Demo](https://50projects50days.com/projects/testimonial-box-switcher/)      |
-| 48  | [Random Image Feed](https://github.com/bradtraversy/50projects50days/tree/master/random-image-generator)                         | [Live Demo](https://50projects50days.com/projects/random-image-feed/)             |
-| 49  | [Todo List](https://github.com/bradtraversy/50projects50days/tree/master/todo-list)                                         | [Live Demo](https://50projects50days.com/projects/todo-list/)                     |
-| 50  | [Insect Catch Game](https://github.com/bradtraversy/50projects50days/tree/master/insect-catch-game)                         | [Live Demo](https://50projects50days.com/projects/insect-catch-game/)             |
+0projects50days.com/projects/insect-catch-game/)             |
 
 **NOTE ON PULL REQUESTS**: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
 
